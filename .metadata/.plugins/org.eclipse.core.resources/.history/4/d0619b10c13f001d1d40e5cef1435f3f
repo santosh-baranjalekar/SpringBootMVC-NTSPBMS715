@@ -1,0 +1,16 @@
+package com.nt.controller;
+
+public class LinksHandler {
+	private ILinksService service;
+	
+	public LinksHandler() {
+		service=new LinksServiceImpl();
+	}
+	
+	//Handler Method
+	public String showWishMessage(HttpServletRequest req) {
+		//use service
+		String resultMsg=service.ge
+	}
+
+}

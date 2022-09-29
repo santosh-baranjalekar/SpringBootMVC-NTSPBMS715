@@ -1,0 +1,22 @@
+package com.nt.controller;
+
+import java.time.LocalDateTime;
+import java.util.Map;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class DataRenderingController {
+	
+	@RequestMapping("/process")
+	public String process(Map<String,Object> map) {
+		System.out.println("SharedMemoryObjectClassName:: "+map.getClass());
+		//add model attributes to shared memory
+		map.put("Attribute1", "Value1");
+		map.put("CurrentDate", LocalDateTime.now());
+		//return LVN
+		return "show_data";
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;04-MVC-DataRendering-SeasonApp/src/main/webapp/WEB-INF/pager&apos; to &apos;pages&apos;" description="Rename resource &apos;pager&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/pager" name="pages" stamp="1664458777083" updateReferences="true"/>
+</session>

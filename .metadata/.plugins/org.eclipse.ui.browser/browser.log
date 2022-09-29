@@ -1,0 +1,30 @@
+
+Sep 29, 2022 12:43:58.40 NEW SESSION
+Sep 29, 2022 12:43:58.40 [11804:6956:0929/124358.036:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 13:10:09.808 [20096:20344:0929/131009.789:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 14:04:21.329 [14124:16968:0929/140421.312:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 14:08:07.15 [19200:12680:0929/140806.993:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 14:27:09.15 [16220:11424:0929/142709.015:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 14:27:09.513 [16220:16476:0929/142709.504:ERROR:device_event_log_impl.cc(214)] [14:27:09.503] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 29, 2022 14:27:16.247 [16220:11424:0929/142716.247:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 14:27:19.254 [16220:11424:0929/142719.254:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 14:27:27.614 [16220:11424:0929/142727.613:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 14:28:06.863 [16220:19884:0929/142806.863:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 14:28:19.364 [16220:11424:0929/142819.364:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 14:29:07.248 [16220:11424:0929/142907.247:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 14:51:18.910 [19560:11236:0929/145118.909:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 16:32:40.529 [16172:15252:0929/163240.522:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 16:40:02.775 [9804:17920:0929/164002.775:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 16:59:11.449 [5436:16432:0929/165911.448:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 17:27:25.642 [15496:11112:0929/172725.641:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 17:38:08.638 [6136:3640:0929/173808.637:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 17:50:23.435 [18956:14520:0929/175023.434:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 18:16:53.761 [9204:8620:0929/181653.761:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 19:04:33.806 [10600:2044:0929/190433.800:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Sep 29, 2022 19:25:58.353 [10600:17636:0929/192558.352:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 29, 2022 19:25:58.375 [10600:13200:0929/192558.374:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 19:25:59.877 [10600:13200:0929/192559.877:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 19:25:59.878 [10600:15352:0929/192559.878:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Sep 29, 2022 21:16:43.904 [10600:13200:0929/211643.903:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Sep 29, 2022 21:16:48.906 [10600:13200:0929/211648.906:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Sep 29, 2022 21:18:43.974 [4316:528:0929/211843.974:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

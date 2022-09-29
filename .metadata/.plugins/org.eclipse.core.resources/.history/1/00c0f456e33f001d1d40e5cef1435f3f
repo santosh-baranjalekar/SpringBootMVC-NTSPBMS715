@@ -1,0 +1,55 @@
+package com.nt.controller;
+
+import java.time.LocalDateTime;
+import java.util.Map;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.ui.ModelMap;
+import org.springframework.validation.support.BindingAwareModelMap;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class DataRenderingController {
+
+	/*@RequestMapping("/process")
+	public String process(Map<String, Object> map) {
+		System.out.println("SharedMemoryObjectClassName:: " + map.getClass());
+		// add model attributes to shared memory
+		map.put("Attribute1", "Value1");
+		map.put("CurrentDate", LocalDateTime.now());
+		// return LVN
+		return "show_data";
+	}*/
+	
+	/*@RequestMapping("/process")
+	public String process(Model model) {
+		System.out.println("SharedMemoryObjectClassName:: " + model.getClass());
+		// add model attributes to shared memory
+		model.addAttribute("Attribute1", "Value1");
+		model.addAttribute("CurrentDate", LocalDateTime.now());
+		// return LVN
+		return "show_data";
+	}*/
+	
+	/*@RequestMapping("/process")
+	public String process(ModelMap map) {
+		System.out.println("SharedMemoryObjectClassName:: " + map.getClass());
+		// add model attributes to shared memory
+		map.addAttribute("Attribute1", "Value1");
+		map.addAttribute("CurrentDate", LocalDateTime.now());
+		// return LVN
+		return "show_data";
+	}*/
+	
+	
+    //Taking Handler Method return type as Model(I)
+	@RequestMapping("/process")
+	public Model process() {
+		Model model=new BindingAwareModelMap(); //manually created shared memory
+		model.addAttribute("Attribute1", "Value1");
+		model.addAttribute("CurrentDate", LocalDateTime.now());
+		// return LVN
+		return model;
+	}
+
+}
