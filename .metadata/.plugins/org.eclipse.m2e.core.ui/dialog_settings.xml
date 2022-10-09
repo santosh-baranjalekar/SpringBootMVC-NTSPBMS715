@@ -25,6 +25,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.nt.controller"/>
 			<item value="com.nt"/>
 		</list>
 		<list key="groupId">

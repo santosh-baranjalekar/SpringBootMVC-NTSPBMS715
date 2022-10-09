@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aop-reference-model/>
+<aop-reference-model>
+<aop-project name="03-MVC-DataRendering"/>
+<aop-project name="04-MVC-DataRendering-SeasonApp"/>
+<aop-project name="02-MVC-FirstApp"/>
+</aop-reference-model>

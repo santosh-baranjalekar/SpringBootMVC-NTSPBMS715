@@ -28,3 +28,129 @@ Sep 29, 2022 19:25:59.878 [10600:15352:0929/192559.878:ERROR:get_updates_process
 Sep 29, 2022 21:16:43.904 [10600:13200:0929/211643.903:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
 Sep 29, 2022 21:16:48.906 [10600:13200:0929/211648.906:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
 Sep 29, 2022 21:18:43.974 [4316:528:0929/211843.974:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+
+Oct 04, 2022 17:24:08.136 NEW SESSION
+Oct 04, 2022 17:24:08.137 [15364:12568:1004/172408.112:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 04, 2022 18:30:09.850 [9908:7380:1004/183009.839:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 05, 2022 24:24:58.359 [9908:1052:1005/002458.359:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 24:24:58.436 [9908:1052:1005/002458.436:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 24:24:58.439 [9908:1120:1005/002458.438:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 24:24:58.921 [9908:7488:1005/002458.920:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 05, 2022 24:24:59.862 [9908:1052:1005/002459.862:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 24:24:59.871 [9908:17204:1005/002459.870:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 24:25:02.481 [9908:1052:1005/002502.481:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 24:25:02.495 [9908:17608:1005/002502.494:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 24:25:04.591 [9908:1052:1005/002504.590:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 24:25:04.593 [9908:2736:1005/002504.592:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 24:26:13.446 [9908:2736:1005/002613.446:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 24:56:23.304 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 05, 2022 01:07:24.268 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 05, 2022 01:07:30.877 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 05, 2022 01:14:42.957 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 05, 2022 11:37:34.630 [9908:1052:1005/113734.628:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 11:37:34.635 [9908:4888:1005/113734.635:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 11:37:35.819 [9908:17300:1005/113735.818:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 05, 2022 11:37:35.838 [9908:1052:1005/113735.838:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 11:37:35.839 [9908:17156:1005/113735.838:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 11:37:38.230 [9908:1052:1005/113738.230:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 11:37:38.231 [9908:17156:1005/113738.231:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 11:37:40.252 [9908:1052:1005/113740.252:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 11:37:40.252 [9908:4888:1005/113740.252:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 14:57:27.372 [9908:1052:1005/145727.372:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 14:57:27.374 [9908:4888:1005/145727.373:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 14:57:27.390 [9908:1528:1005/145727.389:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Oct 05, 2022 14:57:28.872 [9908:1052:1005/145728.872:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 14:57:28.873 [9908:17156:1005/145728.873:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 14:57:31.257 [9908:1052:1005/145731.256:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 14:57:31.258 [9908:4888:1005/145731.257:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 15:03:47.73 [9908:8520:1005/150347.071:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 15:07:31.269 [9908:1052:1005/150731.263:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 15:13:47.87 [9908:12452:1005/151347.083:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 15:17:31.269 [9908:1052:1005/151731.269:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 15:23:47.98 [9908:928:1005/152347.095:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 15:27:31.274 [9908:1052:1005/152731.274:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 15:33:47.110 [9908:3380:1005/153347.109:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 17:41:37.410 [9908:1052:1005/174137.406:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:41:37.433 [9908:4888:1005/174137.432:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 17:41:37.451 [9908:1052:1005/174137.451:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:41:37.742 [9908:18204:1005/174137.741:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 05, 2022 17:41:40.768 [9908:1052:1005/174140.768:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:41:40.772 [9908:928:1005/174140.771:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 17:42:39.12 [9908:1052:1005/174239.011:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:42:42.757 [9908:1052:1005/174242.757:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:42:42.758 [9908:17196:1005/174242.758:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 17:52:54.281 [9908:1052:1005/175254.280:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:52:54.299 [9908:1052:1005/175254.299:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:52:54.303 [9908:3380:1005/175254.302:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 05, 2022 17:52:55.767 [9908:1052:1005/175255.767:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 05, 2022 17:52:55.768 [9908:17196:1005/175255.767:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 06, 2022 11:28:39.995 [9908:19268:1006/112839.994:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 06, 2022 11:28:40.08 [9908:1052:1006/112840.007:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 11:28:40.260 [9908:15164:1006/112840.259:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 06, 2022 11:28:45.956 [9908:1052:1006/112845.956:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 11:28:45.958 [9908:9212:1006/112845.958:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 06, 2022 11:29:25.02 [9908:13360:1006/112925.001:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 06, 2022 11:29:36.687 [9908:1052:1006/112936.686:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 11:31:24.543 [9908:1052:1006/113124.542:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 11:32:13.768 [9908:9212:1006/113213.767:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 06, 2022 11:34:29.81 [9908:1052:1006/113429.080:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 11:38:09.803 [9908:1528:1006/113809.801:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Oct 06, 2022 11:41:30.273 [9908:1052:1006/114130.272:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 11:51:30.284 [9908:1052:1006/115130.283:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 12:01:30.297 [9908:1052:1006/120130.297:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 12:42:08.286 [9908:1052:1006/124208.286:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 12:42:08.302 [9908:1052:1006/124208.301:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 12:42:09.767 [9908:1052:1006/124209.765:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 12:42:12.269 [9908:1052:1006/124212.269:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 18:20:03.07 [9908:13476:1006/182003.005:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 06, 2022 18:20:03.63 [9908:1052:1006/182003.063:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 18:20:03.611 [9908:15164:1006/182003.609:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 06, 2022 18:26:17.922 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 06, 2022 18:41:00.474 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 06, 2022 19:41:28.350 [9908:1052:1006/194128.349:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 06, 2022 21:30:19.446 [9908:1052:1006/213019.445:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 21:30:19.494 [9908:1052:1006/213019.494:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 21:30:20.929 [9908:1052:1006/213020.929:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 21:30:23.256 [9908:1052:1006/213023.255:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 21:30:26.900 [9908:1052:1006/213026.900:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 06, 2022 21:33:58.416 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 06, 2022 21:51:05.558 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 06, 2022 21:56:20.134 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Oct 06, 2022 22:12:18.810 [9908:1528:1006/221218.779:ERROR:interface_endpoint_client.cc(689)] Message 1 rejected by interface blink.mojom.WidgetHost
+Oct 07, 2022 10:00:43.350 [9908:1052:1007/100043.349:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2022 10:00:43.402 [9908:1052:1007/100043.402:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2022 10:00:43.406 [9908:16684:1007/100043.406:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 07, 2022 10:00:43.875 [9908:6120:1007/100043.874:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 07, 2022 10:00:44.861 [9908:1052:1007/100044.860:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2022 10:00:44.862 [9908:20392:1007/100044.861:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 07, 2022 10:00:48.569 [9908:1052:1007/100048.568:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 10:46:49.703 [9908:1052:1008/104649.702:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2022 10:46:49.709 [9908:18748:1008/104649.708:ERROR:get_updates_processor.cc(260)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 08, 2022 10:46:49.749 [9908:1052:1008/104649.748:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2022 10:46:51.400 [9908:6120:1008/104651.399:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 08, 2022 13:06:31.70 [9908:1052:1008/130631.069:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -106
+Oct 08, 2022 13:06:36.758 [9908:1052:1008/130636.757:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:07:27.808 [9908:1052:1008/130727.807:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:08:19.884 [9908:1052:1008/130819.884:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:24:52.811 [9908:1052:1008/132452.809:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:24:56.951 [9908:1052:1008/132456.949:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:24:59.328 [9908:1528:1008/132459.327:ERROR:device_event_log_impl.cc(214)] [13:24:59.327] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 08, 2022 13:25:06.245 [9908:1052:1008/132506.244:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:25:08.760 [9908:1052:1008/132508.760:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:25:17.33 [9908:1052:1008/132517.032:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2022 13:26:09.209 [9908:1052:1008/132609.207:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 11:26:38.121 [19304:19364:1009/112638.120:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 11:27:00.892 [19304:19364:1009/112700.892:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 11:27:09.993 [19304:13180:1009/112709.993:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-105).
+Oct 09, 2022 11:27:35.257 [19304:20688:1009/112735.257:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 09, 2022 11:27:42.432 [19304:19364:1009/112742.432:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 11:29:40.714 [19304:19364:1009/112940.714:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:09:19.369 [19304:19364:1009/120919.368:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:09:20.865 [19304:19364:1009/120920.865:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:09:23.265 [19304:19364:1009/120923.265:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:19:23.276 [19304:19364:1009/121923.275:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:29:23.285 [19304:19364:1009/122923.285:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:39:23.289 [19304:19364:1009/123923.288:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:43:42.673 [21904:14008:1009/124342.673:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:44:10.732 [21904:14008:1009/124410.732:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105
+Oct 09, 2022 12:46:24.844 [18560:17344:1009/124624.844:ERROR:connection_factory_impl.cc(425)] Failed to connect to MCS endpoint with error -105

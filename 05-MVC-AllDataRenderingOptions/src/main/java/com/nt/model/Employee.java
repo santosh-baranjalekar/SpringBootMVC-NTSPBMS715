@@ -1,0 +1,61 @@
+package com.nt.model;
+
+import java.io.Serializable;
+
+public class Employee implements Serializable {
+	
+	private Integer eno;
+	private String ename;
+	private Double salary;
+	private Boolean vaccinated;
+	
+	public Employee() {
+		System.out.println("Employee.Employee()::0-Param Constructor");
+	}
+
+	public Employee(Integer eno, String ename, Double salary, Boolean vaccinated) {
+		System.out.println("Employee.Employee()::4-Param Constructor");
+		this.eno = eno;
+		this.ename = ename;
+		this.salary = salary;
+		this.vaccinated = vaccinated;
+	}
+
+	public Integer getEno() {
+		return eno;
+	}
+
+	public void setEno(Integer eno) {
+		this.eno = eno;
+	}
+
+	public String getEname() {
+		return ename;
+	}
+
+	public void setEname(String ename) {
+		this.ename = ename;
+	}
+
+	public Double getSalary() {
+		return salary;
+	}
+
+	public void setSalary(Double salary) {
+		this.salary = salary;
+	}
+
+	public Boolean getVaccinated() {
+		return vaccinated;
+	}
+
+	public void setVaccinated(Boolean vaccinated) {
+		this.vaccinated = vaccinated;
+	}
+
+	@Override
+	public String toString() {
+		return "Employee [eno=" + eno + ", ename=" + ename + ", salary=" + salary + ", vaccinated=" + vaccinated + "]";
+	}
+	
+}
