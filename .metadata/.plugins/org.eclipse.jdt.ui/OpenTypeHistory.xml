@@ -2,4 +2,5 @@
 <typeInfoHistroy>
     <typeInfo handle="=01-MVC-FrontController-JEE/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.service{ILinksService.java[ILinksService" modifiers="513" timestamp="1664435123926"/>
     <typeInfo handle="=04-MVC-DataRendering-SeasonApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.service{ISeasonFinderMgmtService.java[ISeasonFinderMgmtService" modifiers="513" timestamp="1664456786026"/>
+    <typeInfo handle="=05-MVC-AllDataRenderingOptions/C:\/Program Files\/Java\/jdk-16.0.1\/lib\/jrt-fs.jar`java.base=/maven.pomderived=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/16\/docs\/api\/=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1634548438677"/>
 </typeInfoHistroy>

@@ -1,6 +1,0 @@
-#Embedded server port
-server.port=4041
-
-#ViewResolver inputs(prefix,suffix) for default InternalResourceViewResolver\
-spring.mvc.view.prefix=/WEB-INF/pages/
-spring.mvc.view.suffix=.jsp

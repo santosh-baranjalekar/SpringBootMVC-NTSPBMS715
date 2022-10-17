@@ -7,6 +7,8 @@ D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.co
 \01-MVC-FrontController-JEE\src\main\resources
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2733320659.index
 \04-MVC-DataRendering-SeasonApp\src\main\java
+D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1902812299.index
+\08-MVC-DataBindingUsingRequestParams\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3589019973.index
 \04-MVC-DataRendering-SeasonApp\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1172871182.index
@@ -15,5 +17,7 @@ D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.co
 \06-MVC-FormDataBinding\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3656153869.index
 \05-MVC-AllDataRenderingOptions\src\main\java
+D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2386433930.index
+\07-MVC-FormDataBindingUsingMVCTags\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3999409300.index
 \02-MVC-FirstApp\src\main\java

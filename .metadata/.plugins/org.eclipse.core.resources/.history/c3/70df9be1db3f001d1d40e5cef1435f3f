@@ -1,8 +1,0 @@
-#Embedded tomcat server port number
-server.port=4042
-
-#ViewResolver Inputs
-spring.mvc.view.prefix=/WEB-INF/pages/
-spring.mvc.view.suffix=.jsp
-
-server.servlet.context-path=/MVCSecondApp

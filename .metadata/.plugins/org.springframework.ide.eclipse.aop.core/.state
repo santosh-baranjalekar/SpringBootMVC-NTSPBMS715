@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
+<aop-project name="05-MVC-AllDataRenderingOptions"/>
 <aop-project name="03-MVC-DataRendering"/>
 <aop-project name="04-MVC-DataRendering-SeasonApp"/>
 <aop-project name="02-MVC-FirstApp"/>
+<aop-project name="06-MVC-FormDataBinding"/>
 </aop-reference-model>
