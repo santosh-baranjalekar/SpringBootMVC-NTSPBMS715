@@ -166,3 +166,5 @@ Oct 18, 2022 14:05:08.997 [15448:14724:1018/140508.994:ERROR:connection_factory_
 Oct 18, 2022 14:31:51.159 [9092:20468:1018/143151.159:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
 Oct 18, 2022 18:21:51.189 [16804:17540:1018/182151.189:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
 Oct 18, 2022 18:41:57.437 [7984:14232:1018/184157.437:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 18, 2022 19:42:21.740 [13480:18072:1018/194221.717:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater
+Oct 18, 2022 19:56:44.998 [10652:20160:1018/195644.998:ERROR:util.cc(129)] Can't create base directory: C:\Program Files\Google\GoogleUpdater

@@ -3,6 +3,8 @@ D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.co
 \03-MVC-DataRendering\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1889851980.index
 \02-SpringBootMVC-FirstApplication\src\main\java
+D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2282960806.index
+\10-MVC-CRUDOperations-MiniProjects-SoftDeletion\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3160220425.index
 \01-MVC-FrontController-JEE\src\main\resources
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2733320659.index
