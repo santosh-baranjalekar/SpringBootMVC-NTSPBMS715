@@ -17,6 +17,8 @@ D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.co
 \06-MVC-FormDataBinding\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3656153869.index
 \05-MVC-AllDataRenderingOptions\src\main\java
+D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1909592498.index
+\09-MVC-CRUDOperations-MiniProjects\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2386433930.index
 \07-MVC-FormDataBindingUsingMVCTags\src\main\java
 D:\Project\SpringBootMVC\SpringBootMVC\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3999409300.index
