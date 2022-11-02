@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="05-MVC-AllDataRenderingOptions"/>
-<aop-project name="03-MVC-DataRendering"/>
-<aop-project name="04-MVC-DataRendering-SeasonApp"/>
-<aop-project name="02-MVC-FirstApp"/>
-<aop-project name="06-MVC-FormDataBinding"/>
+<aop-project name="09-MVC-CRUDOperations-MiniProjects"/>
+<aop-project name="11-MVC-MiniProject-ReferenceData"/>
+<aop-project name="12-MVC-MiniProject-ServerSideFormValidations"/>
 </aop-reference-model>
